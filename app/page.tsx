@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-white p-4 sm:p-8">
       <div className="w-full max-w-md rounded-2xl border border-gray-200 bg-white p-6 text-black shadow-lg sm:p-8">
-        <h1 className="mb-4 text-2xl font-bold text-black">Mi Todo App</h1>
+        <h1 className="mb-4 text-2xl font-bold text-black">Todo App</h1>
 
         <div className="mb-4 flex gap-2">
           <input
